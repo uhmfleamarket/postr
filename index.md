@@ -1,5 +1,3 @@
-# UHM Flea Market
-
 # Table of Contents
 * [Description](#description)
 
