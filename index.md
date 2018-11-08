@@ -22,6 +22,7 @@ My personal goal for this project is to have fun and create something that is in
 
 
 ## Zero Wu
+My personal goal for this project is to have to get more experience on application creation. I find these experiences to be very useful in the field and it a good presentation to shows what I have work on and skill. Making selling produce page have become a very common in the modern day, it will be useful when I want to create my own product page in the future.
 
 ## William Cole
 
