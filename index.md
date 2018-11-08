@@ -16,3 +16,5 @@ Many college campuses have a very active second hand market, and UH Manoa is no 
 ## William Cole
 
 ## Davon Moss
+
+# Big Picture Vision
