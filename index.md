@@ -25,6 +25,7 @@ My personal goal for this project is to have fun and create something that is in
 My personal goal for this project is to have to get more experience on application creation. I find these experiences to be very useful in the field and it a good presentation to shows what I have work on and skill. Making selling produce page have become a very common in the modern day, it will be useful when I want to create my own product page in the future.
 
 ## William Cole
+My personal goal for this project is to gain confidence building an application, and feel more confident as a "software developer".
 
 ## Davon Moss
 My goal for this project is to experience working with a team to reach a finished product, so that I can bring that knowledge to the job market. I am mostly interested in developing the front-end of the application, and ensuring that our app is well desined and intuitive. I hope to learn more from my teammates about back-end and database design. 
