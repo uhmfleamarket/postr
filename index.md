@@ -16,5 +16,6 @@ Many college campuses have a very active second hand market, and UH Manoa is no 
 ## William Cole
 
 ## Davon Moss
+My goal for this project is to experience working with a team to reach a finished product, so that I can bring that knowledge to the job market. I am mostly interested in developing the front-end of the application, and ensuring that our app is well desined and intuitive. I hope to learn more from my teammates about back-end and database design. 
 
 # Big Picture Vision
