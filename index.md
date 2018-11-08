@@ -18,6 +18,8 @@ Many college campuses have a very active second hand market, and UH Manoa is no 
 My goal for this project, apart from getting a good grade in this class, is mainly to finish another project that I can put on my resume. I'm best at backend development and have a few years of experience with Javascript. I hope to develop better team collaboration skills during this project.
 
 ## Jiayu Xu
+My personal goal for this project is to have fun and create something that is interesting and useful. I want to apply the skills I learned so far in 311 into creating something amazing. I want the finished product to be attractive and easy to use.
+
 
 ## Zero Wu
 
