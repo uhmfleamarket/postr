@@ -8,7 +8,6 @@ Many college campuses have a very active second hand market, and UH Manoa is no 
 # The Team
 
 ## Austin Haigh
-My goal for this project, apart from getting a good grade in this class, is mainly to finish another project that I can put on my resume. I'm best at backend development and have a few years of experience with Javascript. I hope to develop better team collaboration skills during this project.
 
 ## Jiayu Xu
 
@@ -20,3 +19,4 @@ My goal for this project, apart from getting a good grade in this class, is main
 My goal for this project is to experience working with a team to reach a finished product, so that I can bring that knowledge to the job market. I am mostly interested in developing the front-end of the application, and ensuring that our app is well desined and intuitive. I hope to learn more from my teammates about back-end and database design. 
 
 # Big Picture Vision
+Hopefully, tradr will become a useful and convenient tool for students looking to optimize their college experience. Tradr could even be extended past the UHM campus and become an application that is implemented across multiple campuses nationwide.
