@@ -1,5 +1,12 @@
 # Table of Contents
-* [Description](#description)
+* [Project Description](#project-description)
+* [The Team](#the-team)
+  * [Austin Haigh](#austin-haigh)
+  * [Jiayu Xu](#jiayu-xu)
+  * [Zero Wu](#zero-wu)
+  * [William Cole](#william-cole)
+  * [Davon Moss](#davon-moss)
+* [Big Picture Vision](#big-picture-vision)
 
 # Project Description
 
