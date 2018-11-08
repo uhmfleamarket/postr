@@ -15,6 +15,7 @@ Many college campuses have a very active second hand market, and UH Manoa is no 
 # The Team
 
 ## Austin Haigh
+My goal for this project, apart from getting a good grade in this class, is mainly to finish another project that I can put on my resume. I'm best at backend development and have a few years of experience with Javascript. I hope to develop better team collaboration skills during this project.
 
 ## Jiayu Xu
 
