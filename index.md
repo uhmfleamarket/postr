@@ -47,9 +47,9 @@ Directed from the Home Page, user able to view its profile, meeting history, pas
 
 # Development History
 
-The development process for the UHM Flea market follows the [Final Project](http://courses.ics.hawaii.edu/ics314s17/morea/project-management/reading-screencast-idpm.html). In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
+The development process for the UHM Flea market follows the [Final Project](http://courses.ics.hawaii.edu/ics314s17/morea/project-management/reading-screencast-idpm.html). The development consists of a sequence of Milestones that consist of issues corresponding to the tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
 
-The following sections document the development history of the Manoa Flea Market.
+The following sections document the development history of the UHM Flea Market.
 
 ## Milestone 1: Mockup Development and Authentication
 
