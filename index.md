@@ -36,13 +36,13 @@ Once you logged in, you will be redirected to a login page where you must use yo
 ![](images/login-page.png)
 
 After logged in, users will be directed to the Home Page where user able to view items, cost, seller, and item condition:
-![](images/home-page.png)
+![](images/userhome.png)
 
 By clicking into the selected items, user will be able to view the items and seller in details. 
-![](images/seller-page.png)
+![](images/itemview.png)
 
 Directed from the Home Page, user able to view its profile, meeting history, past post, creating new post, and contact admin. 
-![](images/user-page.png)
+![](images/userprofilepage.png)
 
 # Development History
 
@@ -59,9 +59,9 @@ The goal of Milestone 1 is to combine all of the groups idea developed during ou
 Mockups for the following pages were implemented during M1:
 
 <img width="220px" height="140px" src="images/landing-page.png"/>
-<img width="220px" height="140px" src="images/home-page.png"/>
-<img width="220px" height="140px" src="images/seller-page.png"/>
-<img width="220px" height="140px" src="images/user-page.png"/>
+<img width="220px" height="140px" src="images/userhome.png"/>
+<img width="220px" height="140px" src="images/itemview.png"/>
+<img width="220px" height="140px" src="images/userprofilepage.png"/>
 
 Milestone 1 was implemented as [UHM Flea Market Github Milestone 1](https://github.com/uhmfleamarket/postr/projects/1):
 
