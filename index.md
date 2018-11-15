@@ -42,7 +42,7 @@ By clicking into the selected items, user will be able to view the items and sel
 ![](images/seller-page1.png)
 ![](images/seller-page2.png)
 
-Directed from the Home Page, user able to view its profile, meeting history, past post, creating new post, and contact admin. user
+Directed from the Home Page, user able to view its profile, meeting history, past post, creating new post, and contact admin. 
 ![](images/user-page.png)
 
 # Development History
@@ -60,10 +60,10 @@ The goal of Milestone 1 is to combine all of the groups idea developed during ou
 Mockups for the following pages were implemented during M1:
 
 <img width="220px" height="140px" src="images/landing-page.png"/>
-<img width="220px" height="140px" src="images/images/home-page.png"/>
-<img width="220px" height="140px" src="images/images/seller-page1"/>
-<img width="220px" height="140px" src="images/images/seller-page2"/>
-<img width="220px" height="140px" src="images/images/user-page"/>
+<img width="220px" height="140px" src="images/home-page.png"/>
+<img width="220px" height="140px" src="images/seller-page1"/>
+<img width="220px" height="140px" src="images/seller-page2"/>
+<img width="220px" height="140px" src="images/user-page"/>
 
 Milestone 1 was implemented as [UHM Flea Market Github Milestone 1](https://github.com/uhmfleamarket/postr/projects/1):
 
