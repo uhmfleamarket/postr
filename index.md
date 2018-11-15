@@ -1,5 +1,6 @@
 # Table of Contents
 * [Project Description](#project-description)
+* [About UHM Flea Market](#about-uhm-flea-market) 
 * [The Team](#the-team)
   * [Austin Haigh](#austin-haigh)
   * [Jiayu Xu](#jiayu-xu)
@@ -11,6 +12,14 @@
 # Project Description
 
 Many college campuses have a very active second hand market, and UH Manoa is no exception. College students try to stretch their limited income by buying used goods and by selling things they no longer need. Previously, students used websites and apps such as Facebook Marketplace, Craigslist, and Letgo, but they are open to the general public which can lead to problems such as scams, robberies, and general inconvienence. Now, with our app they will have a place to trade with other UH Manoa students. Students can feel safe knowing they aren't dealing with an anonymous (and potentially criminal) stranger, and they can meet eachother between classes instead of trying to meet someone half way across town.
+
+# About UHM Flea Market
+
+The UHM Flea Market is a Meteor application that will offer UHM students a chance to buy and sell everyday college needs, safely.
+
+Have students login with their UH credentials to access the system
+Connect buyers and sellers through UH credentials
+Items and services offered on this site will be geared specifically towards UHM students
 
 # The Team
 
