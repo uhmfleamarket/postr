@@ -39,8 +39,7 @@ After logged in, users will be directed to the Home Page where user able to view
 ![](images/home-page.png)
 
 By clicking into the selected items, user will be able to view the items and seller in details. 
-![](images/seller-page1.png)
-![](images/seller-page2.png)
+![](images/seller-page.png)
 
 Directed from the Home Page, user able to view its profile, meeting history, past post, creating new post, and contact admin. 
 ![](images/user-page.png)
@@ -61,8 +60,7 @@ Mockups for the following pages were implemented during M1:
 
 <img width="220px" height="140px" src="images/landing-page.png"/>
 <img width="220px" height="140px" src="images/home-page.png"/>
-<img width="220px" height="140px" src="images/seller-page1.png"/>
-<img width="220px" height="140px" src="images/seller-page2.png"/>
+<img width="220px" height="140px" src="images/seller-page.png"/>
 <img width="220px" height="140px" src="images/user-page.png"/>
 
 Milestone 1 was implemented as [UHM Flea Market Github Milestone 1](https://github.com/uhmfleamarket/postr/projects/1):
