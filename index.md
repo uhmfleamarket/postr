@@ -1,6 +1,7 @@
 # Table of Contents
 * [Project Description](#project-description)
 * [About UHM Flea Market](#about-uhm-flea-market) 
+* [Guided](#guided) 
 * [The Team](#the-team)
   * [Austin Haigh](#austin-haigh)
   * [Jiayu Xu](#jiayu-xu)
@@ -17,9 +18,75 @@ Many college campuses have a very active second hand market, and UH Manoa is no 
 
 The UHM Flea Market is a Meteor application that will offer UHM students a chance to buy and sell everyday college needs, safely.
 
-Have students login with their UH credentials to access the system
-Connect buyers and sellers through UH credentials
-Items and services offered on this site will be geared specifically towards UHM students
+- Have students login with their UH credentials to access the system
+- Connect buyers and sellers through UH credentials
+- Items and services offered on this site will be geared specifically towards UHM students
+images
+
+# Guide
+[Here](https://uhm-flea-market.meteorapp.com/) a demo of the UHM Flea Market
+
+You will be greeted by the following landing page: 
+![](images/landing-page.png)
+
+Once you logged in, you will be redirected to a login page where you must use your UH username and password:
+![](images/login-page.png)
+
+After logged in, users will be directed to the Home Page where user able to view items, cost, seller, and item condition:
+![](images/home-page.png)
+
+By clicking into the selected items, user will be able to view the items and seller in details. 
+![](images/seller-page1.png)
+![](images/seller-page2.png)
+
+Directed from the Home Page, user able to view its profile, meeting history, past post, creating new post, and contact admin. user
+![](images/user-page.png)
+
+# Development History
+
+The development process for the UHM Flea market follows the [Final Project](http://courses.ics.hawaii.edu/ics314s17/morea/project-management/reading-screencast-idpm.html). In a nutshell, development consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
+
+The following sections document the development history of the Manoa Flea Market.
+
+## Milestone 1: Mockup Development and Authentication
+
+Milestone 1 started on April 4, 2017 and completed April 12, 2017. 
+
+The goal of Milestone 1 is to combine all of the groups idea developed during our own mockup of this project and combine these pages to create an application that is uniform in looks and has the links to the other pages working. In order to meet this goal, the pages will be developed as a Meteor app and FlowRouter will be implemented in order to get the routing to the other pages to work.
+
+Mockups for the following pages were implemented during M1:
+
+<img width="220px" height="140px" src="images/Landing.png"/>
+<img width="220px" height="140px" src="images/LoginPage.png"/>
+<img width="220px" height="140px" src="images/LoginPage2.png"/>
+<img width="220px" height="140px" src="images/UserHomePage.png"/>
+<img width="220px" height="140px" src="images/TopMenu.png"/>
+<img width="220px" height="140px" src="images/AdminHomePage.png"/>
+<img width="220px" height="140px" src="images/AddListing.png"/>
+<img width="220px" height="140px" src="images/EditListing.png"/>
+<img width="220px" height="140px" src="images/market.png"/>
+<img width="220px" height="140px" src="images/profile.png"/>
+<img width="220px" height="140px" src="images/EditProfile.png"/>
+
+Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
+
+![](images/Milestone1.png)
+
+Milestone 1 consisted of ten issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
+
+![](images/Project1.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](images/Network1.png)
+
+## Milestone 2: Data Model Development
+
+Milestone 2 started on April 13, 2017 and ended April 27, 2017.
+
+The goal of Milestone 2 is to start working on the application's functionality by implementing the data model. 
+
+Milestone 2 was implemented as [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2):
 
 # The Team
 
