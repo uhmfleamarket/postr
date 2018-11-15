@@ -61,9 +61,9 @@ Mockups for the following pages were implemented during M1:
 
 <img width="220px" height="140px" src="images/landing-page.png"/>
 <img width="220px" height="140px" src="images/home-page.png"/>
-<img width="220px" height="140px" src="images/seller-page1"/>
-<img width="220px" height="140px" src="images/seller-page2"/>
-<img width="220px" height="140px" src="images/user-page"/>
+<img width="220px" height="140px" src="images/seller-page1.png"/>
+<img width="220px" height="140px" src="images/seller-page2.png"/>
+<img width="220px" height="140px" src="images/user-page.png"/>
 
 Milestone 1 was implemented as [UHM Flea Market Github Milestone 1](https://github.com/uhmfleamarket/postr/projects/1):
 
