@@ -2,6 +2,9 @@
 * [Project Description](#project-description)
 * [About UHM Flea Market](#about-uhm-flea-market) 
 * [Guided](#guided) 
+* [Development History](#development-history) 
+  * [Milestone 1](#milestone-1) 
+  * [Milestone 2](#milestone-2) 
 * [The Team](#the-team)
   * [Austin Haigh](#austin-haigh)
   * [Jiayu Xu](#jiayu-xu)
@@ -50,43 +53,36 @@ The following sections document the development history of the Manoa Flea Market
 
 ## Milestone 1: Mockup Development and Authentication
 
-Milestone 1 started on April 4, 2017 and completed April 12, 2017. 
+Milestone 1 started on Nov 5, 2018 and completed Nov 15, 2018. 
 
-The goal of Milestone 1 is to combine all of the groups idea developed during our own mockup of this project and combine these pages to create an application that is uniform in looks and has the links to the other pages working. In order to meet this goal, the pages will be developed as a Meteor app and FlowRouter will be implemented in order to get the routing to the other pages to work.
+The goal of Milestone 1 is to combine all of the groups idea developed during our own mockup of this project and combine these pages to create an application that is uniform in looks and has the links to the other pages. These pages will be developed as a Meteor app and will be implemented in order to get the routing to the other pages to work.
 
 Mockups for the following pages were implemented during M1:
 
-<img width="220px" height="140px" src="images/Landing.png"/>
-<img width="220px" height="140px" src="images/LoginPage.png"/>
-<img width="220px" height="140px" src="images/LoginPage2.png"/>
-<img width="220px" height="140px" src="images/UserHomePage.png"/>
-<img width="220px" height="140px" src="images/TopMenu.png"/>
-<img width="220px" height="140px" src="images/AdminHomePage.png"/>
-<img width="220px" height="140px" src="images/AddListing.png"/>
-<img width="220px" height="140px" src="images/EditListing.png"/>
-<img width="220px" height="140px" src="images/market.png"/>
-<img width="220px" height="140px" src="images/profile.png"/>
-<img width="220px" height="140px" src="images/EditProfile.png"/>
+<img width="220px" height="140px" src="images/landing-page.png"/>
+<img width="220px" height="140px" src="images/images/home-page.png"/>
+<img width="220px" height="140px" src="images/images/seller-page1"/>
+<img width="220px" height="140px" src="images/images/seller-page2"/>
+<img width="220px" height="140px" src="images/images/user-page"/>
 
-Milestone 1 was implemented as [Manoa Flea Market Github Milestone 1](https://github.com/manoa-flea-market/manoa-flea-market/milestone/1)::
+Milestone 1 was implemented as [UHM Flea Market Github Milestone 1](https://github.com/uhmfleamarket/postr/projects/1):
 
-![](images/Milestone1.png)
+![](images/M1.png)
 
-Milestone 1 consisted of ten issues, and progress was managed via the [BowFolio GitHub Project M1](https://github.com/manoa-flea-market/manoa-flea-market/projects/1)::
+Milestone 1 consisted of 6 issues, and progress was managed via the [M1](https://github.com/uhmfleamarket/postr/issues):
 
-![](images/Project1.png)
+![](images/M1-issues.png)
 
-Each issue was implemented in its own branch, and merged into master when completed:
+Each issue was implemented in its own branch, and merged into full-site-test-merge when completed:
 
-![](images/Network1.png)
 
 ## Milestone 2: Data Model Development
 
-Milestone 2 started on April 13, 2017 and ended April 27, 2017.
+Milestone 2 started on Nov 15, 2018 to ended ???.
 
 The goal of Milestone 2 is to start working on the application's functionality by implementing the data model. 
 
-Milestone 2 was implemented as [Manoa Flea Market Github Milestone 2](https://github.com/manoa-flea-market/manoa-flea-market/milestone/2):
+Milestone 2 was implemented as [UHM Flea Market Github Milestone 2](https://github.com/uhmfleamarket/postr/projects/2):
 
 # The Team
 
