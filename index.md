@@ -44,6 +44,9 @@ By clicking into the selected items, user will be able to view the items and sel
 Directed from the Home Page, user able to view its profile, meeting history, past post, creating new post, and contact admin. 
 ![](images/userprofilepage.png)
 
+By clicking on the Messages button in the top right of several of the pages, you reach a DM feature with other users.
+![](images/messages.png)
+
 # Development History
 
 The development process for the UHM Flea market follows the [Final Project](http://courses.ics.hawaii.edu/ics314s17/morea/project-management/reading-screencast-idpm.html). The development consists of a sequence of Milestones that consist of issues corresponding to the tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
