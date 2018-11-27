@@ -1,10 +1,12 @@
 # Table of Contents
-* [Project Description](#project-description)
+* [Overview](#overview)
 * [About UHM Flea Market](#about-uhm-flea-market) 
-* [Guided](#guided) 
+* [User Guided](#user-guided) 
+* [Developer Guide](#developer-guide)
 * [Development History](#development-history) 
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
+  * [Milestone 3](#milestone-3)
 * [The Team](#the-team)
   * [Austin Haigh](#austin-haigh)
   * [Jiayu Xu](#jiayu-xu)
@@ -13,7 +15,7 @@
   * [Davon Moss](#davon-moss)
 * [Big Picture Vision](#big-picture-vision)
 
-# Project Description
+# Overview
 
 Many college campuses have a very active second hand market, and UH Manoa is no exception. College students try to stretch their limited income by buying used goods and by selling things they no longer need. Previously, students used websites and apps such as Facebook Marketplace, Craigslist, and Letgo, but they are open to the general public which can lead to problems such as scams, robberies, and general inconvienence. Now, with our app they will have a place to trade with other UH Manoa students. Students can feel safe knowing they aren't dealing with an anonymous (and potentially criminal) stranger, and they can meet eachother between classes instead of trying to meet someone half way across town.
 
@@ -26,7 +28,7 @@ The UHM Flea Market is a Meteor application that will offer UHM students a chanc
 - Items and services offered on this site will be geared specifically towards UHM students
 images
 
-# Guide
+# User Guide
 [Here](https://uhm-flea-market.meteorapp.com/) a demo of the UHM Flea Market
 
 You will be greeted by the following landing page: 
@@ -46,6 +48,30 @@ Directed from the Home Page, user able to view its profile, meeting history, pas
 
 By clicking on the Messages button in the top right of several of the pages, you reach a DM feature with other users.
 ![](images/messages.png)
+
+# Developer Guide
+
+1. install [Meteor](https://www.meteor.com/install).
+
+2. Download a copy of The UHM Flea Market, or clone it using github.
+  
+3. cd into the app directory with:
+```
+$ cd app
+```
+4. Install libraries with:
+
+```
+$ meteor npm install
+```
+
+5. Run the system with:
+
+```
+$ meteor npm run start
+```
+
+The application will appear at [http://localhost:3000](http://localhost:3000).
 
 # Development History
 
@@ -83,7 +109,31 @@ Milestone 2 started on Nov 15, 2018 to ended Nov 27, 2018.
 
 The goal of Milestone 2 is to start working on the application's functionality by implementing the data model. 
 
+Mockups for the following pages were implemented during M2:
+
+<img width="220px" height="140px" src="images/.png"/>
+
+
 Milestone 2 was implemented as [UHM Flea Market Github Milestone 2](https://github.com/uhmfleamarket/postr/projects/2):
+
+![](images/M2.png)
+
+Milestone 2 consisted of 11 issues and progress was managed through [Manoa Flea Market Github Milestone 2](https://github.com/uhmfleamarket/postr/issues):
+
+![](images/issue2.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+
+![](images/work2.png)
+
+## Milestone 3
+
+Milestone 3 started on Nov 28, 2018 and ended Dec 6, 2018.
+
+The goal of Milestone 3 was to completet all the applications functionality and the appearance of the application. 
+
+Milestone 3 was implemented as [UHM Flea Market Github Milestone 3](https://github.com/uhmfleamarket/postr/projects/3):
+
 
 # The Team
 
