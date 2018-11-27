@@ -36,7 +36,7 @@ Once you logged in, you will be redirected to a login page where you must use yo
 ![](images/login-page.png)
 
 After logged in, users will be directed to the Home Page where user able to view items, cost, seller, and item condition:
-![](images/userhome.png)
+![](images/home-page.png)
 
 By clicking into the selected items, user will be able to view the items and seller in details. 
 ![](images/itemview.png)
@@ -62,7 +62,7 @@ The goal of Milestone 1 is to combine all of the groups idea developed during ou
 Mockups for the following pages were implemented during M1:
 
 <img width="220px" height="140px" src="images/landing-page.png"/>
-<img width="220px" height="140px" src="images/userhome.png"/>
+<img width="220px" height="140px" src="images/home-page.png"/>
 <img width="220px" height="140px" src="images/itemview.png"/>
 <img width="220px" height="140px" src="images/userprofilepage.png"/>
 
