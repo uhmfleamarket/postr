@@ -79,7 +79,7 @@ Each issue was implemented in its own branch, and merged into full-site-test-mer
 
 ## Milestone 2: Data Model Development
 
-Milestone 2 started on Nov 15, 2018 to ended ???.
+Milestone 2 started on Nov 15, 2018 to ended Nov 27, 2018.
 
 The goal of Milestone 2 is to start working on the application's functionality by implementing the data model. 
 
