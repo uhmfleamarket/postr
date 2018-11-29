@@ -49,7 +49,7 @@ Directed from the Home Page, user able to view its profile, meeting history, pas
 ![](images/userprofilepage.png)
 
 By clicking on the Messages button in the top right of several of the pages, you reach a DM feature with other users.
-![](images/messages.png)
+![](images/messages1.png)
 
 # Developer Guide
 
