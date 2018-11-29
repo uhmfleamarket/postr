@@ -114,7 +114,14 @@ The goal of Milestone 2 is to start working on the application's functionality b
 Mockups for the following pages were implemented during M2:
 
 <img width="220px" height="140px" src="images/.png"/>
-
+<img width="220px" height="140px" src="images/landing.png"/>
+<img width="220px" height="140px" src="images/login-page.png"/>
+<img width="220px" height="140px" src="images/user-home-1.png"/>
+<img width="220px" height="140px" src="images/user-home-2.png"/>
+<img width="220px" height="140px" src="images/user-home-3.png"/>
+<img width="220px" height="140px" src="images/itemview.png"/>
+<img width="220px" height="140px" src="images/userprofilepage1.png"/>
+<img width="220px" height="140px" src="images/messages.png"/>
 
 Milestone 2 was implemented as [UHM Flea Market Github Milestone 2](https://github.com/uhmfleamarket/postr/projects/2):
 
