@@ -113,7 +113,6 @@ The goal of Milestone 2 is to start working on the application's functionality b
 
 Mockups for the following pages were implemented during M2:
 
-<img width="220px" height="140px" src="images/.png"/>
 <img width="220px" height="140px" src="images/landing.png"/>
 <img width="220px" height="140px" src="images/login-page.png"/>
 <img width="220px" height="140px" src="images/user-home-1.png"/>
