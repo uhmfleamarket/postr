@@ -46,10 +46,10 @@ By clicking into the selected items, user will be able to view the items and sel
 ![](images/itemview.png)
 
 Directed from the Home Page, user able to view its profile, meeting history, past post, creating new post, and contact admin. 
-![](images/userprofilepage.png)
+![](images/userprofilepage1.png)
 
 By clicking on the Messages button in the top right of several of the pages, you reach a DM feature with other users.
-![](images/messages1.png)
+![](images/messages.png)
 
 # Developer Guide
 
