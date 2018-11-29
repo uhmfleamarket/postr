@@ -32,13 +32,15 @@ images
 [Here](https://uhm-flea-market.meteorapp.com/) a demo of the UHM Flea Market
 
 You will be greeted by the following landing page: 
-![](images/landing-page.png)
+![](images/landing.png)
 
 Once you logged in, you will be redirected to a login page where you must use your UH username and password:
 ![](images/login-page.png)
 
 After logged in, users will be directed to the Home Page where user able to view items, cost, seller, and item condition:
-![](images/home-page.png)
+![](images/user-home-1.png)
+![](images/user-home-2.png)
+![](images/user-home-3.png)
 
 By clicking into the selected items, user will be able to view the items and seller in details. 
 ![](images/itemview.png)
