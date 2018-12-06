@@ -7,6 +7,7 @@
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
   * [Milestone 3](#milestone-3)
+* [Community Feedback](#community-feedback) 
 * [The Team](#the-team)
   * [Austin Haigh](#austin-haigh)
   * [Jiayu Xu](#jiayu-xu)
@@ -37,6 +38,9 @@ You will be greeted by the following landing page:
 Once you logged in, you will be redirected to a login page where you must use your UH username and password:
 ![](images/login-page.png)
 
+If you are a new user, you will be able to create a new account: 
+![](images/create.png)
+
 After logged in, users will be directed to the Home Page where user able to view items, cost, seller, and item condition:
 ![](images/user-home-1.png)
 ![](images/user-home-2.png)
@@ -46,10 +50,13 @@ By clicking into the selected items, user will be able to view the items and sel
 ![](images/itemview.png)
 
 Directed from the Home Page, user able to view its profile, meeting history, past post, creating new post, and contact admin. 
-![](images/userprofilepage1.png)
+![](images/userprofilepage2.png)
+
+Furthermore, user able to add item to sell. 
+![](images/add_item.png)
 
 By clicking on the Messages button in the top right of several of the pages, you reach a DM feature with other users.
-![](images/messages.png)
+![](images/messages1.png)
 
 # Developer Guide
 
@@ -140,7 +147,27 @@ Milestone 3 started on Nov 28, 2018 and ended Dec 6, 2018.
 
 The goal of Milestone 3 was to completet all the applications functionality and the appearance of the application. 
 
+Mockups for the following pages were implemented during M3:
+
+<img width="220px" height="140px" src="images/landing.png"/>
+<img width="220px" height="140px" src="images/login-page.png"/>
+<img width="220px" height="140px" src="images/create.png"/>
+<img width="220px" height="140px" src="images/user-home-1.png"/>
+<img width="220px" height="140px" src="images/user-home-2.png"/>
+<img width="220px" height="140px" src="images/user-home-3.png"/>
+<img width="220px" height="140px" src="images/add_item.png"/>
+<img width="220px" height="140px" src="images/itemview.png"/>
+<img width="220px" height="140px" src="images/userprofilepage2.png"/>
+<img width="220px" height="140px" src="images/messages1.png"/>
+
 Milestone 3 was implemented as [UHM Flea Market Github Milestone 3](https://github.com/uhmfleamarket/postr/projects/3):
+
+![](images/M3 issues.png)
+
+Each issue was implemented in its own branch, and merged into master when completed:
+![](images/M3.pgn)
+
+# Community Feedback
 
 
 # The Team
