@@ -167,10 +167,10 @@ Mockups for the following pages were implemented during M3:
 
 Milestone 3 was implemented as [UHM Flea Market Github Milestone 3](https://github.com/uhmfleamarket/postr/projects/3):
 
-![](images/M3 issues.png)
+![](images/M3_issues.png)
 
 Each issue was implemented in its own branch, and merged into master when completed:
-![](images/M3.pgn)
+![](images/M3.png)
 
 # Community Feedback
 
