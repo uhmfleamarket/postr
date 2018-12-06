@@ -58,7 +58,7 @@ Directed from the Home Page, user able to view its profile, meeting history, pas
 ![](images/userprofilepage2.png)
 
 User will be able to add item to sell. 
-![](images/add_item.png)
+![](images/add_item_page.png)
 
 By clicking on the Messages button in the top right of several of the pages, you reach a DM feature with other users.
 ![](images/messages1.png)
