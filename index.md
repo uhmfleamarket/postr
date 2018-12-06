@@ -182,19 +182,19 @@ Each student reviewer was given a brief description of the purpose of the applic
 > -- <cite>UH Junior, Electrical Engineering</cite>
 >
 > 4/5. Would appreciate a feature to show if a user is online.
-> -- <cite>UH Senior, ICS</cite>
+> -- <cite>UH Senior</cite>
 >
 > The user home page displays items quickly.
-> -- <cite>UH Senior, ICS</cite>
+> -- <cite>UH Senior</cite>
 >
 > Nice layout. Very clear and to the point.
-> -- <cite>UH Senior, ICS</cite>
+> -- <cite>UH Senior</cite>
 >
 > I like how you're able to scroll through.
-> -- <cite>UH Senior, ICS</cite>
+> -- <cite>UH Senior</cite>
 >
 > Good! I like how it's user friendly.
-> -- <cite>UH Senior, ICS</cite>
+> -- <cite>UH Senior</cite>
 >
 
 # The Team
