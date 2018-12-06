@@ -45,9 +45,7 @@ If you are a new user, you will be able to create a new account:
 
 
 After logged in, users will be directed to the Home Page where user able to view items, cost, seller, and item condition:
-![](images/user-home-1.png)
-![](images/user-home-2.png)
-![](images/user-home-3.png)
+![](images/M3userhome.png)
 
 
 By clicking into the selected items, user will be able to view the items and seller in details. 
