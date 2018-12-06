@@ -173,7 +173,15 @@ Each issue was implemented in its own branch, and merged into master when comple
 ![](images/M3.png)
 
 # Community Feedback
+At the end of milestone 3, we recruited a few of our friends and classmates to look at our application and give us feedback on their inital impression, missing functionality-wise, and the overall ease of using the application. 
 
+Each student reviewer was given a brief description of the purpose of the application. However, the biggest concerns we got back from the student reviewers was the lack of having the website completely finished. One of the biggest issue we had was there are no items in listed in our Market page. Listed below is the full response from each reviewer. This is complete anonymous so reviewers name will no be show, however, we have listed their major to see how their background affected how they saw the application. 
+
+> 
+> Some of the function did not seem to be working correctly. It is not effective to ask for URL when creating account. 
+> The market page seemed incomplete since the item isn't added to the market page, however, it easy to keep track of items > on the userpage. The message did not seem to be working correctly either.  
+> 
+> -- <cite>UH Junior, Electrical Engineering</cite>
 
 # The Team
 
