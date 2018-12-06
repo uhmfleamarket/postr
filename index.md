@@ -57,14 +57,11 @@ By clicking into the selected items, user will be able to view the items and sel
 Directed from the Home Page, user able to view its profile, meeting history, past post, creating new post, and contact admin. 
 ![](images/userprofilepage2.png)
 
-
-Furthermore, user able to add item to sell. 
+User will be able to add item to sell. 
 ![](images/add_item.png)
-
 
 By clicking on the Messages button in the top right of several of the pages, you reach a DM feature with other users.
 ![](images/messages1.png)
-
 
 # Developer Guide
 
@@ -163,7 +160,7 @@ Mockups for the following pages were implemented during M3:
 <img width="220px" height="140px" src="images/user-home-1.png"/>
 <img width="220px" height="140px" src="images/user-home-2.png"/>
 <img width="220px" height="140px" src="images/user-home-3.png"/>
-<img width="220px" height="140px" src="images/add_item.png"/>
+<img width="220px" height="140px" src="images/add_item_page.png"/>
 <img width="220px" height="140px" src="images/itemview.png"/>
 <img width="220px" height="140px" src="images/userprofilepage2.png"/>
 <img width="220px" height="140px" src="images/messages1.png"/>
