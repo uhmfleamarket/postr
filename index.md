@@ -35,28 +35,36 @@ images
 You will be greeted by the following landing page: 
 ![](images/landing.png)
 
+
 Once you logged in, you will be redirected to a login page where you must use your UH username and password:
 ![](images/login-page.png)
 
+
 If you are a new user, you will be able to create a new account: 
 ![](images/create.png)
+
 
 After logged in, users will be directed to the Home Page where user able to view items, cost, seller, and item condition:
 ![](images/user-home-1.png)
 ![](images/user-home-2.png)
 ![](images/user-home-3.png)
 
+
 By clicking into the selected items, user will be able to view the items and seller in details. 
 ![](images/itemview.png)
+
 
 Directed from the Home Page, user able to view its profile, meeting history, past post, creating new post, and contact admin. 
 ![](images/userprofilepage2.png)
 
+
 Furthermore, user able to add item to sell. 
 ![](images/add_item.png)
 
+
 By clicking on the Messages button in the top right of several of the pages, you reach a DM feature with other users.
 ![](images/messages1.png)
+
 
 # Developer Guide
 
