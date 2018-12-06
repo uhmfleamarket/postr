@@ -180,16 +180,22 @@ Each student reviewer was given a brief description of the purpose of the applic
 > The market page seemed incomplete since the item isn't added to the market page, however, it easy to keep track of items > on the userpage. The message did not seem to be working correctly either.  
 > 
 > -- <cite>UH Junior, Electrical Engineering</cite>
-
-jaymark - 4/5, feature to show if a user is online
-
-grace - quick view for items on userhome
-
-aaron - layout
-
-george - scroll through
-
-justin - user friendly, good
+>
+> 4/5. Would appreciate a feature to show if a user is online.
+> -- <cite>UH Senior, ICS</cite>
+>
+> The user home page displays items quickly.
+> -- <cite>UH Senior, ICS</cite>
+>
+> Nice layout. Very clear and to the point.
+> -- <cite>UH Senior, ICS</cite>
+>
+> I like how you're able to scroll through.
+> -- <cite>UH Senior, ICS</cite>
+>
+> Good! I like how it's user friendly.
+> -- <cite>UH Senior, ICS</cite>
+>
 
 # The Team
 
