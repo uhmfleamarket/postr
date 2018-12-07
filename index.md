@@ -49,7 +49,7 @@ After logged in, users will be directed to the Home Page where user able to view
 
 
 By clicking into the selected items, user will be able to view the items and seller in details. 
-![](images/itemview.png)
+![](images/item_view.png)
 
 
 Directed from the Home Page, user able to view its profile, meeting history, past post, creating new post, and contact admin. 
